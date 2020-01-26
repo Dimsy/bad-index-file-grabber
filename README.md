@@ -13,4 +13,4 @@ Download all files from dir on remote index :)
 
 2. `node bad-grabber.js`
 
-3. **Easy win, Victory Royale!**
+<img src="https://gamepedia.cursecdn.com/fortnite_gamepedia/thumb/1/1d/Victory_royale_2.png/800px-Victory_royale_2.png?version=bf0cfeff5521ff6c83245314e9efe2ce" width="300">
