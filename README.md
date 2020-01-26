@@ -1,7 +1,7 @@
 # bad-index-file-grabber
 Download all files from dir on remote index :)
 
-![Head image](https://github.com/Dimsy/bad-index-file-grabber/img/img_grb.jpg)
+![Head image](https://github.com/Dimsy/bad-index-file-grabber/blob/master/img/img_grb.jpg?raw=true)
 
 1. **Configure constants**
 
